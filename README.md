@@ -1,2 +1,3 @@
 # Matlab
 I created this matlab code or got it and used it along with cross linking it with different things in my medical robotics course. If you are curious go check it out... its unedited thou
+Note: I upload this code from where it was resting for the past year before i switch computers majority of the code was created for my personal use like classwork or homework but some was used to control our 4 DoF robot, the full code for this may be missing. I have not searched deeply for the code due to it most likely being in my cloud :D but if that code appears that code is not independently owned... It is owned between me and my teammates 🥇
